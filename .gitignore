@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# my files
+Monkey_Type_Report.ipynb
+test_app.py
