@@ -131,3 +131,6 @@ dmypy.json
 # my files
 Monkey_Type_Report.ipynb
 test_app.py
+google_key.json
+.streamlit
+pages

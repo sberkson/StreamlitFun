@@ -1,0 +1,6 @@
+google-cloud-bigquery==3.5.0
+streamlit
+matplotlib
+pandas
+pyqt5
+numpy
